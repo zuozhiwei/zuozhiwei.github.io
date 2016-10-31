@@ -1,0 +1,16 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://blog.my467.top
+name: 左志伟.blog
+author: 左志伟
+qq: 1123665434
+email: zuozhiwei0@gmail.com
+duoshuo: zuozhiwei
+beian: 冀ICP备16000831号
+cnzz: 119959
+weibo: 18142200203
+github: 左志伟
+pygments: true
+safe: true
+paginate: 20
+about: "这里是 左志伟 的个人博客，创建于 2016 年。<br/>开始记录自己学习和心得……"
