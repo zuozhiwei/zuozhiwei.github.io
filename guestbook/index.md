@@ -1,8 +1,9 @@
 ---
 layout: page
 title: 留言
-comments: yes
-thread: 616
 ---
 
-来了，就留下你的足迹吧。
+## 我读过的书籍
+
+1. 《沉默的大多数》 --王小波
+2. ​
