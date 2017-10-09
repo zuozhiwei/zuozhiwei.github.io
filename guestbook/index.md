@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 留言
+title: 书籍
+comments: no
 ---
 
 ## 我读过的书籍
